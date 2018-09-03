@@ -4,7 +4,7 @@ to open app first install all npm dependencies:
 npm i
 ```
 
-then run the express server with:
+run the express server with:
 
 ```
 PORT=3001 npm start
